@@ -137,8 +137,8 @@ Named entity linking is widely used for creating and extending knowledge graphs.
 SOTA algorithms can be found at [paperswithcode](https://paperswithcode.com/task/entity-linking). 16 benchmarks are available.
 
 * [GENRE & mGENRE](https://github.com/facebookresearch/GENRE) is a multilingual entity linker to Wikidata based on [BART](https://arxiv.org/abs/1910.13461) and [mBART](https://arxiv.org/abs/2001.08210), [[paper GENRE](https://arxiv.org/pdf/2010.00904.pdf)], [[paper mGENRE](https://arxiv.org/pdf/2103.12528.pdf)], [[examples GENRE](https://github.com/facebookresearch/GENRE/tree/main/examples_genre)], [[examples mGENRE](https://github.com/facebookresearch/GENRE/tree/main/examples_mgenre)]
-* [BLINK](https://github.com/facebookresearch/BLINK) links entities to Wikipedia based on fine-tuned BERT, links to Wikidata are obtained for free from Wikipedia, [[paper](https://arxiv.org/pdf/1911.03814.pdf), [[see also a fork](https://github.com/TheScienceMuseum/BLINK)]]
-* [OpenTapioca](https://github.com/wetneb/opentapioca) is a real-time entity linker to Wikidata [[live demo](https://opentapioca.org)] [[paper](https://arxiv.org/pdf/1904.09131.pdf)], [[docs](https://opentapioca.readthedocs.io/en/latest/)]
+* [BLINK](https://github.com/facebookresearch/BLINK) links entities to Wikipedia based on fine-tuned BERT, links to Wikidata are obtained for free from Wikipedia [[paper](https://arxiv.org/pdf/1911.03814.pdf)], [[see a fork](https://github.com/TheScienceMuseum/BLINK)]
+* [OpenTapioca](https://github.com/wetneb/opentapioca) is a real-time entity linker to Wikidata [[live demo](https://opentapioca.org)], [[paper](https://arxiv.org/pdf/1904.09131.pdf)], [[docs](https://opentapioca.readthedocs.io/en/latest/)]
 * [Spacy Entity Linker](https://github.com/egerber/spaCy-entity-linker) is a simple experimental NELinker to Wikidata
 
 ### Tables
@@ -168,7 +168,7 @@ Tools for entity schemas:
 * [sheXer](http://shexer.weso.es) is an automatic inference of ShEx schemas from a set of items [[code](https://github.com/DaniFdezAlvarez/shexer)]
 * [YASHE](https://www.weso.es/YASHE/) is a ShEx editor [[code](https://github.com/weso/YASHE)]
 * [ShExStatements](https://shexstatements.toolforge.org) is a tool for simplified writing the shape expressions in Wikidata [[paper](https://wikiworkshop.org/2021/papers/Wiki_Workshop_2021_paper_14.pdf)], [[code](https://github.com/johnsamuelwrites/ShExStatements)]
-* [ShEx2](https://rawgit.com/shexSpec/shex.js/wikidata/packages/shex-webapp/doc/shex-simple.html) is a simple online validator
+* [ShEx2](https://rawgit.com/shexSpec/shex.js/wikidata/packages/shex-webapp/doc/shex-simple.html) (aka shex.js) is a simple online validator [[code](https://github.com/shexSpec/shex.js/tree/v0.9.2)], [[zenodo](http://doi.org/10.5281/zenodo.1213693)]
 * [RDFShape](https://rdfshape.weso.es) is a general RDF playground for data validation and conversion between semantic formats [[paper](http://ceur-ws.org/Vol-2180/paper-35.pdf)]
 * [PyShExy](https://tools-static.wmflabs.org/pyshexy/) is an API to validate RDF entities against ShEx schemas using PyShEx
 
