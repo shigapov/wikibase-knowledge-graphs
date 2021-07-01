@@ -16,6 +16,8 @@ A collection of open source tools and resources related to [Wikibase](https://ww
 - [Data wrangling](#data-wrangling)
 - [Data reconciliation](#data-reconciliation)
 - [Named Entity Linking](#named-entity-linking)
+  * [Texts](#texts)
+  * [Tables](#tables)
 - [Data validation](#data-validation)
 - [Wikibase Ecosystem](#wikibase-ecosystem)
 - [Wikibase Community](#wikibase-community)
@@ -143,14 +145,16 @@ SOTA algorithms can be found at [paperswithcode](https://paperswithcode.com/task
 
 ### Tables
 
-SOTA algorithms at Wikidata were tested at [SemTab 2020: Semantic Web Challenge on Tabular Data to Knowledge Graph Matching](https://www.cs.ox.ac.uk/isg/challenges/sem-tab/2020/)
+SOTA algorithms at Wikidata were tested at [SemTab 2020: Semantic Web Challenge on Tabular Data to Knowledge Graph Matching](https://www.cs.ox.ac.uk/isg/challenges/sem-tab/2020/) and [SemTab 2021](https://www.cs.ox.ac.uk/isg/challenges/sem-tab/2021/):
 
 * [MTab](https://github.com/phucty/mtab_tool) is the best algorithm for semantic table interpretation [[online demo & APIs](https://mtab.app)], [[paper](http://ceur-ws.org/Vol-2775/paper9.pdf)]
 * [bbw](https://github.com/UB-Mannheim/bbw) is based on meta-lookup (metasearch over SearX) [[docs](https://ub-mannheim.github.io/bbw/)], [[paper](http://ceur-ws.org/Vol-2775/paper2.pdf)]
 * [JenTab](https://github.com/fusion-jena/JenTab) is a modular tool [[paper](http://ceur-ws.org/Vol-2775/paper4.pdf)]
 * [MantisTable 4](https://bitbucket.org/disco_unimib/mantistable-4/src/master/) is a tool with advanced GUI [[paper](http://ceur-ws.org/Vol-2775/paper8.pdf)]
 
-See also [SemTab 2021](https://www.cs.ox.ac.uk/isg/challenges/sem-tab/2021/).
+See also: 
+
+* [table-linker](https://github.com/usc-isi-i2/table-linker) is an entity linkage tool which links the given string to Wikidata Q nodes [[table-linker-pipelines](https://github.com/usc-isi-i2/table-linker-pipelines)]
 
 ## Data validation
 
