@@ -162,7 +162,7 @@ The first mechanism is using constraints:
 * [Extension:WikibaseQualityConstraints](https://www.mediawiki.org/wiki/Extension:WikibaseQualityConstraints)
 * For Wikidata see [Help:Property constraints portal](https://www.wikidata.org/wiki/Help:Property_constraints_portal)
 
-The second mechanism is using Entity Schemas and ShEx expressions.
+The second mechanism is using Entity Schemas and Shape Expressions (ShEx).
 * [Extension:EntitySchema](https://www.mediawiki.org/wiki/Extension:EntitySchema)
 * For Wikidata see [Wikidata: Schemas](https://www.wikidata.org/wiki/Wikidata:Schemas) and [Wikidata:WikiProject Schemas](https://www.wikidata.org/wiki/Wikidata:WikiProject_Schemas)
 
@@ -178,6 +178,7 @@ Tools for entity schemas:
 
 Relevant papers:
 * [Using Shape Expressions (ShEx) to Share RDF Data Models and to Guide Curation with Rigorous Validation](https://doi.org/10.1007/978-3-030-21348-0_39)
+* [Using logical constraints to validate information in collaborative knowledge graphs: a study of COVID-19 on Wikidata](https://doi.org/10.5281/zenodo.4008358)
 
 ## Wikibase Ecosystem
 
