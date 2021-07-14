@@ -114,6 +114,7 @@ Federated properties in Wikibase are still under development:
 Current workaround is getting basic info about the properties from the Wikidata SPARQL endpoint and creating those properties locally:
 * [WikidataIntegrator Notebook](https://github.com/SuLab/WikidataIntegrator/blob/main/notebooks/CreateWikidataProperties.ipynb) and its [parallel implementation](https://github.com/SuLab/WikidataIntegrator/blob/main/notebooks/CreateWikidataPropertiesParallel.ipynb)
 * [miniWikibase.py](https://github.com/UB-Mannheim/RaiseWikibase/blob/main/miniWikibase.py) in [RaiseWikibase](https://github.com/UB-Mannheim/RaiseWikibase)
+* [wikibase-tools](https://github.com/stuppie/wikibase-tools)
 
 Every property is associated with a certain datatype in the Wikibase Data Model. Some of the datatypes are not native and require extensions. See:
 * [Testing all datatypes](https://github.com/UB-Mannheim/RaiseWikibase#testing-all-datatypes)
