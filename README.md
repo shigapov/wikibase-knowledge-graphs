@@ -143,6 +143,7 @@ SOTA algorithms can be found at [paperswithcode](https://paperswithcode.com/task
 * [BLINK](https://github.com/facebookresearch/BLINK) links entities to Wikipedia based on fine-tuned BERT, links to Wikidata are obtained for free from Wikipedia [[paper](https://arxiv.org/pdf/1911.03814.pdf)], [[see a fork](https://github.com/TheScienceMuseum/BLINK)]
 * [OpenTapioca](https://github.com/wetneb/opentapioca) is a real-time entity linker to Wikidata [[live demo](https://opentapioca.org)], [[paper](https://arxiv.org/pdf/1904.09131.pdf)], [[docs](https://opentapioca.readthedocs.io/en/latest/)]
 * [Spacy Entity Linker](https://github.com/egerber/spaCy-entity-linker) is a simple experimental NELinker to Wikidata
+* [spaCyOpenTapioca](https://github.com/UB-Mannheim/spacyopentapioca) is a spaCy pipeline for OpenTapioca [[spaCy Universe](https://spacy.io/universe/project/spacyopentapioca)]
 
 ### Tables
 
