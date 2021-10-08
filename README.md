@@ -215,9 +215,9 @@ Relevant papers:
 3. [Rhizome Artbase](https://artbase.rhizome.org) is a Wikibase knowledge graph of born-digital artworks from 1999 to the present day [[SPARQL](https://query.artbase.rhizome.org)]
 4. [FactGrid](https://database.factgrid.de) is a Wikibase knowledge graph for historical research [[SPARQL](https://database.factgrid.de/query/)], [[Viewer](https://database.factgrid.de/viewer/)], [[fast search via ringgaard.com](https://factgrid.ringgaard.com/kb)]
 5. [Lingua Libre](https://lingualibre.org) is a Wikibase knowledge graph of audiovisual data [[SPARQL](https://lingualibre.org/bigdata/#query)]
-6. [OpenStreetMap](https://wiki.openstreetmap.org) is a Wikibase knowledge graph of geographic entities [[SPARQL](https://sophox.org)]
+6. [OpenStreetMap Metadata](https://wiki.openstreetmap.org/wiki/Data_items) is a Wikibase knowledge graph of metadata in [OpenStreetMap](https://www.openstreetmap.org) [[SPARQL](https://sophox.org)]
 7. [PersonalData.io](https://wiki.personaldata.io) is a Wikibase knowledge graph about personal data ecosystem [[SPARQL](https://query.personaldata.io)]
-8. [EU knowledge graph](https://linkedopendata.eu) is a Wikibase knowledge graph about European Union [[SPARQL](https://query.linkedopendata.eu)], [[Question-Answering over KG](https://qa.linkedopendata.eu)]
+8. [EU knowledge graph](https://linkedopendata.eu) is a Wikibase knowledge graph about European Union [[SPARQL](https://query.linkedopendata.eu)], [[Question-Answering over KG](https://qa.linkedopendata.eu)], [[paper at ISWC2021 "Wikibase as an Infrastructure for Knowledge Graphs: the EU Knowledge Graph"](https://hal.archives-ouvertes.fr/hal-03353225/document)]
 9. [enslaved.org](https://lod.enslaved.org) is a Wikibase knowledge graph about people of the historical slave trade [[frontend](https://enslaved.org)]
 
 ## Notes
