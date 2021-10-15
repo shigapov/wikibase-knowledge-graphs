@@ -141,8 +141,9 @@ SOTA algorithms can be found at [paperswithcode](https://paperswithcode.com/task
 
 * [GENRE & mGENRE](https://github.com/facebookresearch/GENRE) is a multilingual entity linker to Wikidata based on [BART](https://arxiv.org/abs/1910.13461) and [mBART](https://arxiv.org/abs/2001.08210), [[paper GENRE](https://arxiv.org/pdf/2010.00904.pdf)], [[paper mGENRE](https://arxiv.org/pdf/2103.12528.pdf)], [[examples GENRE](https://github.com/facebookresearch/GENRE/tree/main/examples_genre)], [[examples mGENRE](https://github.com/facebookresearch/GENRE/tree/main/examples_mgenre)]
 * [BLINK](https://github.com/facebookresearch/BLINK) links entities to Wikipedia based on fine-tuned BERT, links to Wikidata are obtained for free from Wikipedia [[paper](https://arxiv.org/pdf/1911.03814.pdf)], [[see a fork](https://github.com/TheScienceMuseum/BLINK)]
+* [entity-fishing](https://github.com/kermitt2/entity-fishing) is a named entity linker on Wikidata [[demo](https://cloud.science-miner.com/nerd)], [[docs](http://nerd.readthedocs.io)], [[presentation](https://grobid.s3.amazonaws.com/presentations/29-10-2017.pdf)]
 * [OpenTapioca](https://github.com/wetneb/opentapioca) is a real-time entity linker to Wikidata [[live demo](https://opentapioca.org)], [[paper](https://arxiv.org/pdf/1904.09131.pdf)], [[docs](https://opentapioca.readthedocs.io/en/latest/)]
-* [Spacy Entity Linker](https://github.com/egerber/spaCy-entity-linker) is a simple experimental NELinker to Wikidata
+* [Spacy Entity Linker](https://github.com/egerber/spaCy-entity-linker) is a simple experimental NELinker to Wikidata using queries to a local database
 * [spaCyOpenTapioca](https://github.com/UB-Mannheim/spacyopentapioca) is a spaCy pipeline for OpenTapioca [[spaCy Universe](https://spacy.io/universe/project/spacyopentapioca)]
 
 ### Tables
