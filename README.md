@@ -201,6 +201,9 @@ Relevant papers:
 
 ## Conferences and workshops
 
+* [The first Federated-Wikibase-Workshop: Antwerp, 2018-04-23/25](https://blog.factgrid.de/archives/835)
+* [Wikibase Workshop in Berlin, 2018](https://blog.wikimedia.de/2018/07/13/wikibase-workshop-in-berlin)
+* [The Wikibase Summit: New York, 2018](https://www.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research/Meetups/2018-09-19-21-New-York)
 * [Wikidata Workshop 2020](https://wikidataworkshop.github.io/2020/) [[papers](http://ceur-ws.org/Vol-2773)]
 * [Wikidata Workshop 2021](https://wikidataworkshop.github.io/2021/) [[papers](http://ceur-ws.org/Vol-2982)]
 
