@@ -223,6 +223,7 @@ Relevant papers:
 7. [PersonalData.io](https://wiki.personaldata.io) is a Wikibase knowledge graph about personal data ecosystem [[SPARQL](https://query.personaldata.io)]
 8. [EU knowledge graph](https://linkedopendata.eu) is a Wikibase knowledge graph about European Union [[SPARQL](https://query.linkedopendata.eu)], [[Question-Answering over KG](https://qa.linkedopendata.eu)], [[paper at ISWC2021 "Wikibase as an Infrastructure for Knowledge Graphs: the EU Knowledge Graph"](https://hal.archives-ouvertes.fr/hal-03353225/document)]
 9. [enslaved.org](https://lod.enslaved.org) is a Wikibase knowledge graph about people of the historical slave trade [[frontend](https://enslaved.org)]
+10. [Semlab Wikibase](http://base.semlab.io) is a Wikibase knowledge graph of [Semantic Lab at Pratt Institute](https://semlab.io) with data about [their research projects](https://semlab.io/projects) [[SPARQL](https://query.semlab.io)]
 
 ## Notes
 
