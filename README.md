@@ -186,7 +186,8 @@ Relevant papers:
 
 ## Wikibase Ecosystem
 
-* [Strategy for the Wikibase Ecosystem](https://upload.wikimedia.org/wikipedia/commons/c/cc/Strategy_for_Wikibase_Ecosystem.pdf)
+* [Strategy for the Wikibase Ecosystem 2019](https://upload.wikimedia.org/wikipedia/commons/c/cc/Strategy_for_Wikibase_Ecosystem.pdf)
+* [Strategy for the Wikibase Ecosystem 2021](https://meta.wikimedia.org/wiki/LinkedOpenData/Strategy2021/Wikibase)
 * [Wikibase Registry](https://wikibase-registry.wmflabs.org)
 
 ## Wikibase Community
