@@ -226,6 +226,13 @@ Relevant papers:
 8. [EU knowledge graph](https://linkedopendata.eu) is a Wikibase knowledge graph about European Union [[SPARQL](https://query.linkedopendata.eu)], [[Question-Answering over KG](https://qa.linkedopendata.eu)], [[paper at ISWC2021 "Wikibase as an Infrastructure for Knowledge Graphs: the EU Knowledge Graph"](https://hal.archives-ouvertes.fr/hal-03353225/document)]
 9. [enslaved.org](https://lod.enslaved.org) is a Wikibase knowledge graph about people of the historical slave trade [[frontend](https://enslaved.org)]
 10. [Semlab Wikibase](http://base.semlab.io) is a Wikibase knowledge graph of [Semantic Lab at Pratt Institute](https://semlab.io) with data about [their research projects](https://semlab.io/projects) [[SPARQL](https://query.semlab.io)]
+11. [Virus-Taxonomy](https://virus-taxonomy.wiki.opencura.com) is a Wikibase knowledge graph of virus taxonomy [[SPARQL](https://virus-taxonomy.wiki.opencura.com/query/)]
+12. [DataTrek](https://data.wikitrek.org) is a Wikibase knowledge graph of open data for Star Trek 
+13. [Nonbinary](https://data.nonbinary.wiki) is a Wikibase knowledge graph of concepts relevant to nonbinary identities
+14. [The De Jonge Wiki](https://set.kuleuven.be/rlicc/dejongewiki/w/index.php/Main_Page) is a Wikibase knowledge graph of research that has been carried out on the [Arenberg Castle](https://set.kuleuven.be/rlicc/dejongewiki/w/index.php/Arenberg_Castle)
+15. [Biblissima](https://data.biblissima.fr/w/Accueil) is a Wikibase knowledge graph of the Biblissima authority repositories
+
+More Wikibase instances can be found at [Wikibase Registry](https://wikibase-registry.wmflabs.org) and [WikiAPIary](https://www.wikiapiary.com/w/index.php?title=Special:Ask&offset=0&limit=500&q=%5B%5BHas+extension%3A%3AExtension%3AWikibaseRepository%5D%5D&p=mainlabel%3D-2D%2Fformat%3Dtable%2Flink%3Dall%2Fheaders%3Dshow%2Fintro%3D-3Cb-3EThis-20extension-20is-20in-20use-20on-20the-20following-20websites%3A-3C-2Fb-3E-3Cbr-20-2F-3E%2Fsearchlabel%3D%E2%80%A6-20further-20results%2Fdefault%3DThis-20extension-20is-20no-20longer-20in-20use-20on-20any-20website.%2Fclass%3Dsortable-20wikitable-20smwtable&po=%3FHas+website%3DWiki+name%0A%3FHas+MediaWiki+version%3DMediaWiki+version%0A%3FHas+extension+version%3DExtension+version%0A&sort=Has+website&order=rand).
 
 ## Notes
 
