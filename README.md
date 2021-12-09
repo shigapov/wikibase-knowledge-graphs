@@ -145,6 +145,7 @@ SOTA algorithms can be found at [paperswithcode](https://paperswithcode.com/task
 * [OpenTapioca](https://github.com/wetneb/opentapioca) is a real-time entity linker to Wikidata [[live demo](https://opentapioca.org)], [[paper](https://arxiv.org/pdf/1904.09131.pdf)], [[docs](https://opentapioca.readthedocs.io/en/latest/)]
 * [Spacy Entity Linker](https://github.com/egerber/spaCy-entity-linker) is a simple experimental NELinker to Wikidata using queries to a local database
 * [spaCyOpenTapioca](https://github.com/UB-Mannheim/spacyopentapioca) is a spaCy pipeline for OpenTapioca [[spaCy Universe](https://spacy.io/universe/project/spacyopentapioca)]
+* [Survey on English Entity Linking on Wikidata](http://www.semantic-web-journal.net/system/files/swj2865.pdf) is a survey paper
 
 ### Tables
 
