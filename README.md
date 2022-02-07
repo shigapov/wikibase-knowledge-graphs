@@ -75,7 +75,8 @@ A collection of open source tools and resources related to [Wikibase](https://ww
 
 ## Data import
 
-Before starting with data import please read the following preprint and paper:
+Before starting with data import please read the following resources:
+* [Fast Bulk Import Into Wikibase](https://wikibase.consulting/fast-bulk-import-into-wikibase) by Jeroen De Dauw
 * [A protocol for adding knowledge to Wikidata, a case report](https://doi.org/10.1101/2020.04.05.026336)
 * [A protocol for adding knowledge to Wikidata: aligning resources on human coronaviruses](https://doi.org/10.1186/s12915-020-00940-y)
 
