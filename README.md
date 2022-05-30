@@ -210,6 +210,7 @@ Relevant papers:
 * [The Wikibase Summit: New York, 2018](https://www.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research/Meetups/2018-09-19-21-New-York)
 * [Wikidata Workshop 2020](https://wikidataworkshop.github.io/2020/) [[papers](http://ceur-ws.org/Vol-2773)]
 * [Wikidata Workshop 2021](https://wikidataworkshop.github.io/2021/) [[papers](http://ceur-ws.org/Vol-2982)]
+* [Wikidata Workshop 2022](https://wikidataworkshop.github.io/2022/) 
 
 ## Awesome Master and PhD theses
 
