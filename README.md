@@ -64,6 +64,7 @@ A collection of open source tools and resources related to [Wikibase](https://ww
 2. If you already have [Mediawiki](https://www.mediawiki.org/wiki/Manual:Installation_guide), install manually the [Wikibase extension](https://www.mediawiki.org/wiki/Wikibase/Installation)
 3. ```docker-compose up -d``` of the [Wikibase Docker Image](https://www.mediawiki.org/wiki/Wikibase/Docker)
 4. [WbStack](https://www.wbstack.com) as a part of the "Wikibase as a service". Ask an invitation from [Adam Shorland](https://addshore.com/contact)
+5. [Ansible playbook](https://gitlab.com/nfdi4culture/ta5-knowledge-graph/wikibase-deploy) for Wikibase [[docs](https://gitlab.com/nfdi4culture/ta5-knowledge-graph/wikibase-process)]
 
 ## Data model
 
