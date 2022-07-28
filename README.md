@@ -63,8 +63,9 @@ A collection of open source tools and resources related to [Wikibase](https://ww
 1. Manual installation of the [Wikibase Suite](https://www.mediawiki.org/wiki/Wikibase/Suite)
 2. If you already have [Mediawiki](https://www.mediawiki.org/wiki/Manual:Installation_guide), install manually the [Wikibase extension](https://www.mediawiki.org/wiki/Wikibase/Installation)
 3. ```docker-compose up -d``` of the [Wikibase Docker Image](https://www.mediawiki.org/wiki/Wikibase/Docker)
-4. [WbStack](https://www.wbstack.com) as a part of the "Wikibase as a service". Ask an invitation from [Adam Shorland](https://addshore.com/contact)
-5. [Ansible playbook](https://gitlab.com/nfdi4culture/ta5-knowledge-graph/wikibase-deploy) for Wikibase [[docs](https://gitlab.com/nfdi4culture/ta5-knowledge-graph/wikibase-process)]
+4. Obsolete: [WbStack](https://www.wbstack.com) as a part of the "Wikibase as a service". Ask an invitation from [Adam Shorland](https://addshore.com/contact)
+5. [Wikibase Cloud](https://www.wikibase.cloud) is "Wikibase as a service".
+6. [Ansible playbook](https://gitlab.com/nfdi4culture/ta5-knowledge-graph/wikibase-deploy) for Wikibase [[docs](https://gitlab.com/nfdi4culture/ta5-knowledge-graph/wikibase-process)]
 
 ## Data model
 
@@ -203,6 +204,7 @@ Relevant papers:
 
 * [Wikibase Yearly Summary 2020](https://www.lehir.net/wikibase-yearly-summary-2020)
 * [Wikibase Yearly Summary 2021](https://www.lehir.net/wikibase-yearly-summary-2021)
+* [Wikibase Yearly Summary 2022](https://www.lehir.net/wikibase-yearly-summary-2022)
 
 ## Conferences and workshops
 
