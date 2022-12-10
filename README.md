@@ -1,5 +1,7 @@
 # Wikibase knowledge graphs
 
+[![DOI](https://zenodo.org/badge/381375115.svg)](https://zenodo.org/badge/latestdoi/381375115)
+
 A collection of open source tools and resources related to [Wikibase](https://www.wikiba.se) knowledge graphs.
 
 - [Motivation](#motivation)
