@@ -40,7 +40,8 @@ A collection of open source tools and resources related to [Wikibase](https://ww
 1. __Knowledge graphs__ by Aidan Hogan et al. [[preprint](https://arxiv.org/pdf/2003.02320.pdf)], [[HTML book](https://kgbook.org)]
 2. __The Knowledge Graph Cookbook. Recipes that work__ by Andreas Blumauer & Helmut Nagy [[book](https://www.poolparty.biz/wp-content/uploads/2020/04/the-knowledge-graph-cookbook.pdf)]
 3. __KIT Knowledge Graphs course__ by Harald Sack & Mehwish Alam [[description](https://open.hpi.de/courses/knowledgegraphs2020)]
-4. __Stanford Knowledge Graphs course CS 520__ [[2020](https://web.stanford.edu/class/cs520/2020/)], [[2021](https://web.stanford.edu/class/cs520/)]
+4. __Stanford Knowledge Graphs course CS 520__ [[2020](https://web.stanford.edu/~vinayc/kg/2020/)], [[2021](https://web.stanford.edu/~vinayc/kg/2021/)]
+5. __Knowledge Graphs - Foundations and Applications__ by Harald Sack [[description](https://open.hpi.de/courses/knowledgegraphs2023)]
 
 ## Awesome Wikibase tutorials
 
