@@ -42,6 +42,7 @@ A collection of open source tools and resources related to [Wikibase](https://ww
 3. __KIT Knowledge Graphs course__ by Harald Sack & Mehwish Alam [[description](https://open.hpi.de/courses/knowledgegraphs2020)]
 4. __Stanford Knowledge Graphs course CS 520__ [[2020](https://web.stanford.edu/~vinayc/kg/2020/)], [[2021](https://web.stanford.edu/~vinayc/kg/2021/)]
 5. __Knowledge Graphs - Foundations and Applications__ by Harald Sack [[description](https://open.hpi.de/courses/knowledgegraphs2023)]
+6. __Knowledge Graphs: Methodology, Tools and Selected Use Cases__ Dieter Fensel et al [[book](https://www.knowledgegraphbook.ai/wp-content/uploads/2020/10/KnowledgeGraphBook.pdf)]
 
 ## Awesome Wikibase tutorials
 
