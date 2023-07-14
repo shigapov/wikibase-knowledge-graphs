@@ -26,6 +26,7 @@ A collection of open source tools and resources related to [Wikibase](https://ww
 - [Wikibase Summaries](#wikibase-summaries)
 - [Conferences and workshops](#conferences-and-workshops)
 - [Awesome Master and PhD theses](#awesome-master-and-phd-theses)
+- [Wikibase-Wikidata papers](#wikibase-wikidata-papers)
 - [Awesome Wikibase instances](#awesome-wikibase-instances)
 - [Notes](#notes)
 
@@ -226,6 +227,14 @@ Relevant papers:
 
 * __Schema Inference on Wikidata__ by Lucas Werkmeister [[thesis](https://doi.org/10.5281/zenodo.2578258)]
 * __Modelling and Importing Dynamic Data into Wikibase: A Case Study of the Swiss Transportation System__ by Samuel Meuli [[thesis](https://www.merlin.uzh.ch/contributionDocument/download/12658)]
+
+## Wikibase-Wikidata papers
+
+1. Fudie Zhao, A systematic review of Wikidata in Digital Humanities projects, Digital Scholarship in the Humanities, Volume 38, Issue 2, June 2023, Pages 852–874, https://doi.org/10.1093/llc/fqac083
+2. Tharani, Karim. "Much more than a mere technology: A systematic review of Wikidata in libraries." The Journal of Academic Librarianship 47.2 (2021): 102326. https://doi.org/10.1016/j.acalib.2021.102326
+3. Waagmeester, A., Stupp, G., Burgstaller-Muehlbacher, S., Good, B. M., Griffith, M., Griffith, O. L., ... & Su, A. I. (2020). Wikidata as a knowledge graph for the life sciences. Elife, 9, e52614. https://doi.org/10.7554/eLife.52614
+4. Nielsen, F.Å., Mietchen, D., Willighagen, E. (2017). Scholia, Scientometrics and Wikidata. In: Blomqvist, E., Hose, K., Paulheim, H., Ławrynowicz, A., Ciravegna, F., Hartig, O. (eds) The Semantic Web: ESWC 2017 Satellite Events. ESWC 2017. Lecture Notes in Computer Science(), vol 10577. Springer, Cham. https://doi.org/10.1007/978-3-319-70407-4_36
+5. Turki, H., Shafee, T., Taieb, M.A.H., Aouicha, M.B., Vrandečić, D., Das, D. and Hamdi, H., 2019. Wikidata: A large-scale collaborative ontological medical database. Journal of Biomedical Informatics, 99, p.103292. https://doi.org/10.1016/j.jbi.2019.103292
 
 ## Awesome Wikibase instances
 
