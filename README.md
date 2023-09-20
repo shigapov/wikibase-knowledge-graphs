@@ -57,6 +57,7 @@ A collection of open source tools and resources related to [Wikibase](https://ww
 8. [Learning Wikibase](http://learningwikibase.com)
 9. __Get your own copy of WikiData__ by [Wolfgang Fahl](https://github.com/WolfgangFahl) [[post](http://wiki.bitplan.com/index.php/Get_your_own_copy_of_WikiData)]
 10. __Transferring Wikibase data between wikis__ by [Jeroen De Dauw](https://www.EntropyWins.wtf) [[post](https://wikibase.consulting/transferring-wikibase-data-between-wikis)]
+11. __Wikibase resources__ by Olaf Janssen & KB national library of the Netherlands [GitHub repo](https://github.com/KBNLwikimedia/Wikibase-resources)
 
 ## Wikibase Architecture
 
