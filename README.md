@@ -21,6 +21,7 @@ A collection of open source tools and resources related to [Wikibase](https://ww
   * [Texts](#texts)
   * [Tables](#tables)
 - [Data validation](#data-validation)
+- [AI](#ai)
 - [Wikibase Ecosystem](#wikibase-ecosystem)
 - [Wikibase Community](#wikibase-community)
 - [Wikibase Summaries](#wikibase-summaries)
@@ -195,6 +196,10 @@ Relevant papers:
 * [Using Shape Expressions (ShEx) to Share RDF Data Models and to Guide Curation with Rigorous Validation](https://doi.org/10.1007/978-3-030-21348-0_39)
 * [Using logical constraints to validate information in collaborative knowledge graphs: a study of COVID-19 on Wikidata](https://doi.org/10.5281/zenodo.4008358)
 * [Creating Knowledge Graphs Subsets using Shape Expressions](https://arxiv.org/pdf/2110.11709.pdf)
+
+## AI
+
+* Wikibase-RAG by Kolja Bailly [[code](https://gitlab.com/nfdi4culture/wikibase4research/wikibase-RAG)]
 
 ## Wikibase Ecosystem
 
