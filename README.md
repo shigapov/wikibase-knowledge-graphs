@@ -200,6 +200,7 @@ Relevant papers:
 ## AI
 
 * Wikibase-RAG by Kolja Bailly [[code](https://gitlab.com/nfdi4culture/wikibase4research/wikibase-RAG)]
+* [langchain-wikibase](https://github.com/donaldziff/langchain-wikibase)
 
 ## Wikibase Ecosystem
 
